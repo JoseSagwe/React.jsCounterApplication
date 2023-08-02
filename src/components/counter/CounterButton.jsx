@@ -1,9 +1,11 @@
 import {PropTypes} from 'prop-types'
 export default  function CounterButton({by, incrementMethod, decrementMethod}){
 
+
     //A function inside a function
     // function incrementCounterFunction(){
     //     incrementMethod(by)
+    
         
     // }
     function decrementCounterFunction(){

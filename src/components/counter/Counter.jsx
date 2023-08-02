@@ -8,14 +8,17 @@ export default function Counter(){
     function incrementCounterParentFunction(by){
         setCount(count + by)
     }
+    
 
     function decrementCounterParentFunction(by){
         setCount(count - by)
     }
 
+
     function reset(){
         setCount(0)
     }
+
 
     return(
         <div>
