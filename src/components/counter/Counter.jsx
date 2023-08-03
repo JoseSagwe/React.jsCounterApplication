@@ -19,15 +19,6 @@ export default function Counter(){
         setCount(0)
     }
 
-
-
-
-
-
-
-
-
-
     
 
     return(
