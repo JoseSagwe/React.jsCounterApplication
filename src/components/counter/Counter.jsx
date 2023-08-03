@@ -20,6 +20,16 @@ export default function Counter(){
     }
 
 
+
+
+
+
+
+
+
+
+    
+
     return(
         <div>
              <span className="totalCount">{count}</span>
