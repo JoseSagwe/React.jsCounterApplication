@@ -19,8 +19,6 @@ export default function Counter(){
         setCount(0)
     }
 
-    
-
     return(
         <div>
              <span className="totalCount">{count}</span>
