@@ -1,8 +1,5 @@
 import {PropTypes} from 'prop-types'
 export default  function CounterButton({by, incrementMethod, decrementMethod}){
-
-
-    
     //A function inside a function
     // function incrementCounterFunction(){
     //     incrementMethod(by)  
@@ -10,7 +7,6 @@ export default  function CounterButton({by, incrementMethod, decrementMethod}){
     function decrementCounterFunction(){
         decrementMethod(by)
     } 
-
     return(
         <div className="Counter">
         <div>
@@ -24,8 +20,6 @@ export default  function CounterButton({by, incrementMethod, decrementMethod}){
         </div>
     )
 }
-
-
 CounterButton.propTypes = {
     by: PropTypes.number
 }
