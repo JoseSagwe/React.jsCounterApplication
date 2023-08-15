@@ -5,6 +5,7 @@ export default  function CounterButton({by, incrementMethod, decrementMethod}){
     //     incrementMethod(by)  
     // }
 
+
     
     function decrementCounterFunction(){
         decrementMethod(by)
