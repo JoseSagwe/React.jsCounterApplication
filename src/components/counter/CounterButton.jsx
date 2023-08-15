@@ -23,7 +23,6 @@ export default  function CounterButton({by, incrementMethod, decrementMethod}){
 CounterButton.propTypes = {
     by: PropTypes.number
 }
-
 CounterButton.defaultProps = {
     by: 5
 }
