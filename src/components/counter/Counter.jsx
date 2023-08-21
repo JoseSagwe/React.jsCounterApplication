@@ -4,11 +4,6 @@ import CounterButton from './CounterButton';
 
 
 
-
-
-
-
-
 export default function Counter(){
     const [count, setCount] = useState(0);
     function incrementCounterParentFunction(by){
