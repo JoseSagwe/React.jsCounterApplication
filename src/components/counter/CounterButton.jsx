@@ -13,6 +13,9 @@ export default  function CounterButton({by, incrementMethod, decrementMethod}){
     
 
 
+    
+
+
     function decrementCounterFunction(){
         decrementMethod(by)
     } 
