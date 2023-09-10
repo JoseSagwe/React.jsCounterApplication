@@ -1,4 +1,6 @@
 # React.jsCounterApplication
+
+
 ![CounterApp](https://github.com/JoseSagwe/React.jsCounterApplication/assets/110198843/685e064a-7b3e-4384-a275-a2ed3a2e40d3)
 
 
@@ -29,6 +31,7 @@ To get started with CounterApplication, follow these steps:
 
 This will launch the CounterApplication in your browser, allowing you to interact with the counter.
 Access the applicatio on localhost:3000
+
 
 ## Usage
 
