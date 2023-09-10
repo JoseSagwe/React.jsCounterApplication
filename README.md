@@ -37,6 +37,7 @@ Access the applicatio on localhost:3000
 
 The CounterApplication project consists of the following key components:
 
+
 ### `Counter`
 
 The `Counter` component is the main component that displays the counter value and provides buttons for incrementing, decrementing, and resetting the counter.
@@ -45,6 +46,7 @@ The `Counter` component is the main component that displays the counter value an
 - `incrementCounterParentFunction(by)`: A function to increment the counter by the specified value (`by`).
 - `decrementCounterParentFunction(by)`: A function to decrement the counter by the specified value (`by`).
 - `reset()`: A function to reset the counter to 0.
+
 
 ### `CounterButton`
 
