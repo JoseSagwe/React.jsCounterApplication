@@ -6,7 +6,6 @@
 
 CounterApplication is a simple React application that allows you to keep track of and manipulate a counter's value. This project consists of a counter component and counter button components, which can be customized to increment and decrement the counter by specific amounts.
 
-
 ## Getting Started
 
 To get started with CounterApplication, follow these steps:
@@ -20,7 +19,6 @@ To get started with CounterApplication, follow these steps:
    ```bash
    npm install
    ```
-
 4. Start the development server:
 
    ```bash
