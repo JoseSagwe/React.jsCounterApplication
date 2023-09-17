@@ -38,8 +38,6 @@ The `Counter` component is the main component that displays the counter value an
 - `incrementCounterParentFunction(by)`: A function to increment the counter by the specified value (`by`).
 - `decrementCounterParentFunction(by)`: A function to decrement the counter by the specified value (`by`).
 - `reset()`: A function to reset the counter to 0.
-
-
 ### `CounterButton`
 
 The `CounterButton` component is a reusable button component that can be customized to increment or decrement the counter by a specified amount (`by`).
