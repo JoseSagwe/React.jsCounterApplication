@@ -22,10 +22,8 @@ To get started with CounterApplication, follow these steps:
    ```bash
    npm start
    ```
-
 This will launch the CounterApplication in your browser, allowing you to interact with the counter.
 Access the applicatio on localhost:3000
-
 
 ## Usage
 
