@@ -10,6 +10,7 @@ CounterApplication is a simple React application that allows you to keep track o
 
 To get started with CounterApplication, follow these steps:
 
+
 1. Clone the repository to your local machine:
 
 2. Navigate to the project directory:
@@ -22,6 +23,7 @@ To get started with CounterApplication, follow these steps:
    ```bash
    npm start
    ```
+   
 This will launch the CounterApplication in your browser, allowing you to interact with the counter.
 Access the applicatio on localhost:3000
 
