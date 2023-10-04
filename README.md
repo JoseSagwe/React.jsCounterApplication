@@ -41,4 +41,3 @@ The `CounterButton` component is a reusable button component that can be customi
 - `by`: The amount by which the counter is incremented or decremented when the button is clicked.
 - `incrementMethod`: A callback function provided by the parent component to handle incrementing the counter.
 - `decrementMethod`: A callback function provided by the parent component to handle decrementing the counter.
-
