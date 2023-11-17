@@ -12,10 +12,12 @@ To get started with CounterApplication, follow these steps:
 2. Navigate to the project directory:
 
 3. Install the required dependencies:
+4. 
    ```bash
    npm install
    ```
-4. Start the development server:
+   
+5. Start the development server:
    ```bash
    npm start
    ```
